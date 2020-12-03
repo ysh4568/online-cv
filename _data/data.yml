@@ -137,33 +137,28 @@ publications:
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
         conference: Computer Vision and Image Understanding (Elsevier)
 
-publications:
     title: International Conferences
     papers:
       - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
         link: "#"
         authors: Sangho Yoon, Hanjoo Cho, Sang Won Cho, and Young Hwan Kim
         conference: International SoC Design Conference (ISOCC), 2017
-        
-    papers:
+
       - title: Motion Vector-based Film Mode Detection for Frame Rate Up-Conversion
         link: "#"
         authors: Sang Won Cho, Sangho Yoon,and Young Hwan Kim
         conference: International SoC Design Conference (ISOCC), 2017
 
-    papers:
       - title: Image Interpolation based on Hessian Analysis
         link: "#"
         authors: Sangho Yoon and Young Hwan Kim
         conference: Soc Design Conference (ISOCC), 2016 International, 2016
         
-    papers:
       - title: Block-based static caption detection using intensity range
         link: "#"
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
         conference: Consumer Electronics, 2016 IEEE 5th Global Conference on, 2016
 
-publications:
     title: Domestic Conferences (Korean)
     papers:
       - title: CNN 기반의 연속 음성 인식 알고리즘
@@ -171,25 +166,21 @@ publications:
         authors: 윤상호, 김영환
         conference: 2019 SoC 학술대회, 2019
         
-    papers:
       - title: 화자 적응 및 Catastrophic Forgetting 완화를 위한 부분 추가 학습 알고리즘
         link: "#"
         authors: 김은식, 윤상호, 권현정, 김영환
         conference: 2019 SoC 학술대회, 2019
 
-    papers:
       - title: 발화 수준의 순열 불변 학습을 이용한 단일 채널 음성 분리
         link: "#"
         authors: 조상원, 윤상호, 김영환
         conference: 반도체공학회 학술대회, 2018
         
-    papers:
       - title: Fade detection through the luminance transition neighboring monochromatic frame
         link: "#"
         authors: 윤상호, 배규진, 김영환
         conference: 한국반도체학술대회, 2016       
 
-    papers:
       - title: 경계 기반 영역 병합을 통한 영상 분할
         link: "#"
         authors: 윤상호, 배규진, 김영환
