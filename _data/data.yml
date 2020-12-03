@@ -137,6 +137,7 @@ publications:
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
         conference: Computer Vision and Image Understanding (Elsevier)
 
+publications:
     title: International Conferences
     papers:
       - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
@@ -159,6 +160,7 @@ publications:
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
         conference: Consumer Electronics, 2016 IEEE 5th Global Conference on, 2016
 
+publications:
     title: Domestic Conferences (Korean)
     papers:
       - title: CNN 기반의 연속 음성 인식 알고리즘
