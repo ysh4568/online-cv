@@ -135,9 +135,9 @@ publications:
       - title: An advanced fade detection algorithm that distinguishes dissolve, text, and light source (submitted)
         link: "#"
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
-        conference: Computer Vision and Image Understanding (Elsevier)
+        conference: Computer Vision and Image Understanding (Elsevier) 2
 
-#publications:
+publications:
     title: International Conferences
     papers:
       - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
