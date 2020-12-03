@@ -138,12 +138,12 @@ publications:
         conference: Computer Vision and Image Understanding (Elsevier)
 
 #publications:
-#    title: International Conferences
-#    papers:
-#      - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
-#        link: "#"
-#        authors: Sangho Yoon, Hanjoo Cho, Sang Won Cho, and Young Hwan Kim
-#        conference: International SoC Design Conference (ISOCC), 2017
+    title: International Conferences
+    papers:
+      - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
+        link: "#"
+        authors: Sangho Yoon, Hanjoo Cho, Sang Won Cho, and Young Hwan Kim
+        conference: International SoC Design Conference (ISOCC), 2017
 
 #      - title: Motion Vector-based Film Mode Detection for Frame Rate Up-Conversion
 #        link: "#"
