@@ -96,13 +96,13 @@ projects:
       - title: Speaker recognition for business meetings
         tagline: >-
              POSCO ICT.
-             Jan. 2020 ~ present (participate Jan. 2020 ~ present).
+             Jan. 2020 ~ Present (participate Jan. 2020 ~ Present).
              (Korean) 비즈니스 미팅시 화자 인식.
         
       - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
         tagline: >-
              Creative IT (POSCO)
-             Jan. 2018 ~ present (participate Jan. 2018 ~ Jun. 2020)
+             Jan. 2018 ~ Present (participate Jan. 2018 ~ Jun. 2020)
              (Korean) 딥 러닝과 IoHT 기반의 음성 대화형 스마트 홈 제어 시스템
 
       - title: HMD-based virtual multi-screen display system
@@ -137,7 +137,7 @@ publications:
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
         conference: Computer Vision and Image Understanding (Elsevier)
 
-publications:
+publications2:
     title: International Conferences
     papers:
       - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
@@ -160,8 +160,8 @@ publications:
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
         conference: Consumer Electronics, 2016 IEEE 5th Global Conference on, 2016
 
-#publications:
-#   title: Domestic Conferences (Korean)
+publications3:
+   title: Domestic Conferences (Korean)
     papers:
       - title: CNN 기반의 연속 음성 인식 알고리즘
         link: "#"
