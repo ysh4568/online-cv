@@ -99,8 +99,9 @@ projects:
     assignments:
       - title: Speaker recognition for business meetings
         tagline: POSCO ICT
-        tagline: Jan. 2020 ~ present (participate Jan. 2020 ~ present)
-        tagline: (Korean) 비즈니스 미팅시 화자 인식
+        details: |
+          -  Jan. 2020 ~ present (participate Jan. 2020 ~ present)
+          -  (Korean) 비즈니스 미팅시 화자 인식
         
       - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
         tagline: Creative IT (POSCO)
