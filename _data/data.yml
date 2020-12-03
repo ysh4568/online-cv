@@ -131,7 +131,7 @@ projects:
 
 publications:
     title: International Journals
-#    papers:
+    papers:
       - title: An advanced fade detection algorithm that distinguishes dissolve, text, and light source (submitted)
         link: "#"
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
@@ -162,7 +162,7 @@ publications:
 
 #publications:
    title: Domestic Conferences (Korean)
-#    papers:
+    papers:
       - title: CNN 기반의 연속 음성 인식 알고리즘
         link: "#"
         authors: 윤상호, 김영환
