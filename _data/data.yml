@@ -63,43 +63,33 @@ education:
       time: 2015 - Present
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Undergraduate Student Researcher Intern
+      time: Sep. 2013 - Feb. 2014
+      company: CAD & SoC Design Lab., Pohang University of Science and Technology (POSTECH), Pohang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Advisor: Prof. Young Hwan Kim
+
+    - role: Graduate student researcher
+      time: Mar. 2015 - Present
+      company: CAD & SoC Design Lab., Pohang University of Science and Technology (POSTECH), Pohang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Advisor: Prof. Young Hwan Kim
+          
+    - role: Teaching Assistant
+      time: Sep. 2015 - Dec. 2015
+      company: Pohang University of Science and Technology (POSTECH), Pohang
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Digital System Design (EECE273-01)
+          - Advisor: Prof. Young Hwan Kim
+          - Best TA Award
+          
+    - role: Teaching Assistant
+      time: Sep. 2016 - Dec. 2016
+      company: Pohang University of Science and Technology (POSTECH), Pohang
+      details: |
+          - Digital System Design (EECE273-01)
+          - Advisor: Prof. Young Hwan Kim
+          
 projects:
     title: Projects
     intro: >
@@ -107,25 +97,35 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Speaker recognition for business meetings
+        tagline: POSCO ICT
+        tagline: Jan. 2020 ~ present (participate Jan. 2020 ~ present)
+        tagline: (Korean) 비즈니스 미팅시 화자 인식
+        
+      - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
+        tagline: Creative IT (POSCO)
+        tagline: Jan. 2018 ~ present (participate Jan. 2018 ~ Jun. 2020)
+        tagline: (Korean) 딥 러닝과 IoHT 기반의 음성 대화형 스마트 홈 제어 시스템
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: HMD-based virtual multi-screen display system
+        tagline: Creative IT (POSCO)
+        tagline: Jan. 2015 ~ Dec. 2017 (participate Nov. 2016 ~ Dec. 2017)
+        tagline: (Korean) HMD 기반의 virtual multi-screeen 디스플레이 개발
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Saliency-based video retargeting algorithm development and its hardware implementation
+        tagline: LG Display
+        tagline: Jun. 2016 ~ May 2017 (participate Jun. 2016 ~ Dec. 2017)
+        tagline: (Korean) Saliency 기반 video retargeting 알고리즘 개발 및 하드웨어 구현
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Research on the implementation of spatiotemporal detection and exception handling technology for frame rate up conversion on OLED display 
+        tagline: LG Display
+        tagline: Jun. 2015 ~ May 2016 (participate Jun. 2015 ~ May 2016)
+        tagline: OLED 디스플레이 용 frame rate up conversion을 위한 시공간 detection 및 예외 처리 기술 구현에 관한 연구
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Vidio depth enhancement algorithm development and its hardware implementation
+        tagline: LG Display
+        tagline: Jun. 2014 ~ May 2015 (participate Mar. 2015 ~ May 2015)
+        tagline: (Korean) Video depth enhancement 알고리즘 개발 및 하드웨어 구현
 
 publications:
     title: Publications
