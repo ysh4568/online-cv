@@ -132,7 +132,7 @@ projects:
 publications:
     title: International Journals
     papers:
-      - title: An advanced fade detection algorithm that distinguishes dissolve, text, and light source [submitted]
+      - title: An advanced fade detection algorithm that distinguishes dissolve, text, and light source (submitted)
         link: "#"
         authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
         conference: Computer Vision and Image Understanding (Elsevier)
