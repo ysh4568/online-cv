@@ -124,7 +124,7 @@ projects:
              OLED 디스플레이 용 frame rate up conversion을 위한 시공간 detection 및 예외 처리 기술 구현에 관한 연구
 
       - title: Vidio depth enhancement algorithm development and its hardware implementation
-        tagline: 
+        tagline: >-
              LG Display
              Jun. 2014 ~ May 2015 (participate Mar. 2015 ~ May 2015)
              (Korean) Video depth enhancement 알고리즘 개발 및 하드웨어 구현
@@ -138,17 +138,17 @@ publications:
         conference: Computer Vision and Image Understanding (Elsevier)
 
 #publications:
-    title: International Conferences
+#    title: International Conferences
 #    papers:
-      - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
-        link: "#"
-        authors: Sangho Yoon, Hanjoo Cho, Sang Won Cho, and Young Hwan Kim
-        conference: International SoC Design Conference (ISOCC), 2017
+#      - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
+#        link: "#"
+#        authors: Sangho Yoon, Hanjoo Cho, Sang Won Cho, and Young Hwan Kim
+#        conference: International SoC Design Conference (ISOCC), 2017
 
-      - title: Motion Vector-based Film Mode Detection for Frame Rate Up-Conversion
-        link: "#"
-        authors: Sang Won Cho, Sangho Yoon,and Young Hwan Kim
-        conference: International SoC Design Conference (ISOCC), 2017
+#      - title: Motion Vector-based Film Mode Detection for Frame Rate Up-Conversion
+#        link: "#"
+#        authors: Sang Won Cho, Sangho Yoon,and Young Hwan Kim
+#        conference: International SoC Design Conference (ISOCC), 2017
 
       - title: Image Interpolation based on Hessian Analysis
         link: "#"
