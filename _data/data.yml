@@ -92,85 +92,130 @@ experiences:
           
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Speaker recognition for business meetings
         tagline: >-
-             POSCO ICT
-             Jan. 2020 ~ present (participate Jan. 2020 ~ present)
-             (Korean) 비즈니스 미팅시 화자 인식
+             POSCO ICT.
+             Jan. 2020 ~ present (participate Jan. 2020 ~ present).
+             (Korean) 비즈니스 미팅시 화자 인식.
         
       - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
-        tagline: Creative IT (POSCO)
-        tagline: Jan. 2018 ~ present (participate Jan. 2018 ~ Jun. 2020)
-        tagline: (Korean) 딥 러닝과 IoHT 기반의 음성 대화형 스마트 홈 제어 시스템
+        tagline: >-
+             Creative IT (POSCO)
+             Jan. 2018 ~ present (participate Jan. 2018 ~ Jun. 2020)
+             (Korean) 딥 러닝과 IoHT 기반의 음성 대화형 스마트 홈 제어 시스템
 
       - title: HMD-based virtual multi-screen display system
-        tagline: Creative IT (POSCO)
-        tagline: Jan. 2015 ~ Dec. 2017 (participate Nov. 2016 ~ Dec. 2017)
-        tagline: (Korean) HMD 기반의 virtual multi-screeen 디스플레이 개발
+        tagline: >-
+             Creative IT (POSCO)
+             Jan. 2015 ~ Dec. 2017 (participate Nov. 2016 ~ Dec. 2017)
+             (Korean) HMD 기반의 virtual multi-screeen 디스플레이 개발
 
       - title: Saliency-based video retargeting algorithm development and its hardware implementation
-        tagline: LG Display
-        tagline: Jun. 2016 ~ May 2017 (participate Jun. 2016 ~ Dec. 2017)
-        tagline: (Korean) Saliency 기반 video retargeting 알고리즘 개발 및 하드웨어 구현
+        tagline: >-
+             LG Display
+             Jun. 2016 ~ May 2017 (participate Jun. 2016 ~ Dec. 2017)
+             (Korean) Saliency 기반 video retargeting 알고리즘 개발 및 하드웨어 구현
 
       - title: Research on the implementation of spatiotemporal detection and exception handling technology for frame rate up conversion on OLED display 
-        tagline: LG Display
-        tagline: Jun. 2015 ~ May 2016 (participate Jun. 2015 ~ May 2016)
-        tagline: OLED 디스플레이 용 frame rate up conversion을 위한 시공간 detection 및 예외 처리 기술 구현에 관한 연구
+        tagline: >-
+             LG Display
+             Jun. 2015 ~ May 2016 (participate Jun. 2015 ~ May 2016)
+             OLED 디스플레이 용 frame rate up conversion을 위한 시공간 detection 및 예외 처리 기술 구현에 관한 연구
 
       - title: Vidio depth enhancement algorithm development and its hardware implementation
-        tagline: LG Display
-        tagline: Jun. 2014 ~ May 2015 (participate Mar. 2015 ~ May 2015)
-        tagline: (Korean) Video depth enhancement 알고리즘 개발 및 하드웨어 구현
+        tagline: >-
+             LG Display
+             Jun. 2014 ~ May 2015 (participate Mar. 2015 ~ May 2015)
+             (Korean) Video depth enhancement 알고리즘 개발 및 하드웨어 구현
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: International Journals
     papers:
-      - title: The Art of Computer Programming
+      - title: An advanced fade detection algorithm that distinguishes dissolve, text, and light source [submitted]
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
+        conference: Computer Vision and Image Understanding (Elsevier)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+publications:
+    title: International Conferences
+    papers:
+      - title: HMD-based Virtual Multi-Screen Control System and Its Gesture Interface
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Sangho Yoon, Hanjoo Cho, Sang Won Cho, and Young Hwan Kim
+        conference: International SoC Design Conference (ISOCC), 2017
+        
+    papers:
+      - title: Motion Vector-based Film Mode Detection for Frame Rate Up-Conversion
+        link: "#"
+        authors: Sang Won Cho, Sangho Yoon,and Young Hwan Kim
+        conference: International SoC Design Conference (ISOCC), 2017
 
-      - title: A syntax directed compiler for Algol 60
+    papers:
+      - title: Image Interpolation based on Hessian Analysis
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Sangho Yoon and Young Hwan Kim
+        conference: Soc Design Conference (ISOCC), 2016 International, 2016
+        
+    papers:
+      - title: Block-based static caption detection using intensity range
+        link: "#"
+        authors: Sangho Yoon, Chanhee Lee, Ho Sub Lee, Young Hwan Kim, and Seokhyeong Kang
+        conference: Consumer Electronics, 2016 IEEE 5th Global Conference on, 2016
+        
+publications:
+    title: Domestic Conferences (Korean)
+    papers:
+      - title: CNN 기반의 연속 음성 인식 알고리즘
+        link: "#"
+        authors: 윤상호, 김영환
+        conference: 2019 SoC 학술대회, 2019
+        
+    papers:
+      - title: 화자 적응 및 Catastrophic Forgetting 완화를 위한 부분 추가 학습 알고리즘
+        link: "#"
+        authors: 김은식, 윤상호, 권현정, 김영환
+        conference: 2019 SoC 학술대회, 2019
+
+    papers:
+      - title: 발화 수준의 순열 불변 학습을 이용한 단일 채널 음성 분리
+        link: "#"
+        authors: 조상원, 윤상호, 김영환
+        conference: 반도체공학회 학술대회, 2018
+        
+    papers:
+      - title: Fade detection through the luminance transition neighboring monochromatic frame
+        link: "#"
+        authors: 윤상호, 배규진, 김영환
+        conference: 한국반도체학술대회, 2016       
+
+    papers:
+      - title: [Best Paper Award] 경계 기반 영역 병합을 통한 영상 분할
+        link: "#"
+        authors: 윤상호, 배규진, 김영환
+        conference: 2015 SoC 학술대회, 2015
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C / C++
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Oculus-based VR engineering
+        level: 80%
 
-      - name: HTML5 & CSS
+      - name: Verilog
+        level: 90%
+
+      - name: Xilinx-ISE
+        level: 90%
+
+      - name: Matlab programming
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
