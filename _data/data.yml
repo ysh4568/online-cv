@@ -94,31 +94,31 @@ projects:
     title: Projects
     assignments:
       - title: Speaker recognition for business meetings
-        tagline: 
+        tagline: >-
              POSCO ICT.
              Jan. 2020 ~ present (participate Jan. 2020 ~ present).
              (Korean) 비즈니스 미팅시 화자 인식.
         
       - title: Deep learning and Development of Voice Interactive Smart Home Control System Based on Internet of Home Things (IoHT)
-        tagline: 
+        tagline: >-
              Creative IT (POSCO)
              Jan. 2018 ~ present (participate Jan. 2018 ~ Jun. 2020)
              (Korean) 딥 러닝과 IoHT 기반의 음성 대화형 스마트 홈 제어 시스템
 
       - title: HMD-based virtual multi-screen display system
-        tagline: 
+        tagline: >-
              Creative IT (POSCO)
              Jan. 2015 ~ Dec. 2017 (participate Nov. 2016 ~ Dec. 2017)
              (Korean) HMD 기반의 virtual multi-screeen 디스플레이 개발
 
       - title: Saliency-based video retargeting algorithm development and its hardware implementation
-        tagline: 
+        tagline: >-
              LG Display
              Jun. 2016 ~ May 2017 (participate Jun. 2016 ~ Dec. 2017)
              (Korean) Saliency 기반 video retargeting 알고리즘 개발 및 하드웨어 구현
 
       - title: Research on the implementation of spatiotemporal detection and exception handling technology for frame rate up conversion on OLED display 
-        tagline: 
+        tagline: >-
              LG Display
              Jun. 2015 ~ May 2016 (participate Jun. 2015 ~ May 2016)
              OLED 디스플레이 용 frame rate up conversion을 위한 시공간 detection 및 예외 처리 기술 구현에 관한 연구
@@ -190,7 +190,7 @@ publications:
         conference: 한국반도체학술대회, 2016       
 
     papers:
-      - title: [Best Paper Award] 경계 기반 영역 병합을 통한 영상 분할
+      - title: (Best Paper Award) 경계 기반 영역 병합을 통한 영상 분할
         link: "#"
         authors: 윤상호, 배규진, 김영환
         conference: 2015 SoC 학술대회, 2015
