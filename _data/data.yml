@@ -54,28 +54,14 @@ career-profile:
       Pohang University of Science and Technology, Pohang, South Korea. His current research interests include image processing, 
       computer vision and artificial intelligence.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: B.Sc. in Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH)
+      time: 2011 - 2015
+      
+    - degree: M.S.-Ph.D. in Electrical Engineering
+      university: Pohang University of Science and Technology (POSTECH)
+      time: 2015 - Present
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
